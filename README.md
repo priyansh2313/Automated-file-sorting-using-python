@@ -71,4 +71,4 @@ Impact
 
 
 
-DISCLAIMER: U have to first create folders for repsective music , images , documents for the arrangement anywhere on your pc.
+DISCLAIMER: U have to first create folders for repsective music , images , documents for the arrangement anywhere on your pc and update the respective file path in the code as per mentioned on the it and then only it will work.
