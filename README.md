@@ -10,7 +10,13 @@ Images: .jpg, .png, .gif, .bmp, etc.
 Documents: .pdf, .docx, .xlsx, .pptx, etc.
 Customizable: Easily add or modify file types and categories to suit specific needs.
 Implementation Details
-The project is written in Python, using the watchdog library to detect changes in the Downloads folder. When a new file is detected, it is classified based on its extension and moved to the corresponding subfolder. Key components include:
+The project is written in Python, using the watchdog library to detect changes in the Downloads folder. When a new file is detected, it is classified based on its extension and moved to the corresponding subfolder.
+
+
+
+
+
+Key components include:
 
 FileMonitor Class: Utilizes watchdog to track changes.
 EventHandler Class: Manages file system events and processes files.
