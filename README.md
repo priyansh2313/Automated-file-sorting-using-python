@@ -37,6 +37,13 @@ EventHandler Class: Manages file system events and processes files.
 FileSorter Function: Classifies and moves files to the appropriate subfolders.
 
 
+
+
+
+
+
+
+
 Technologies Used
 
 Python: Core programming language.
