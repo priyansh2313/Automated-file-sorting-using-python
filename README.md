@@ -1,6 +1,9 @@
 # Automated-file-sorting-using-python
 
 #Key Features
+
+
+
 Real-Time Monitoring: The program continuously watches the Downloads folder for new files.
 Automatic Sorting: Files are instantly moved to appropriate subfolders (Audio, Video, Images, Documents) based on their file types.
 Broad File Type Support: Recognizes and sorts a wide range of file types:
