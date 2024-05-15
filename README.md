@@ -19,6 +19,13 @@ The project is written in Python, using the watchdog library to detect changes i
 
 
 
+
+
+
+
+
+
+
 Key components include:
 
 FileMonitor Class: Utilizes watchdog to track changes.
