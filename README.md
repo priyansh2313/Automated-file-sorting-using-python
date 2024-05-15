@@ -71,4 +71,4 @@ Impact
 
 
 
-DISCLAIMER: U have to first create folders for repsective music , images , documents foe the arrangement anywhere on your pc 
+DISCLAIMER: U have to first create folders for repsective music , images , documents for the arrangement anywhere on your pc.
