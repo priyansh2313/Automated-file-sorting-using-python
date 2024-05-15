@@ -62,3 +62,13 @@ Event Handling: The event handler classifies incoming files based on their exten
 File Sorting: Files are moved to respective subfolders (Audio, Video, Images, Documents).
 Continuous Operation: The observer ensures the Downloads folder remains organized at all times.
 Impact
+
+
+
+
+
+
+
+
+
+DISCLAIMER: U have to first cerate folders for repsective music , images , documents foe the arrangement anywhere on your pc 
