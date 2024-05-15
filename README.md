@@ -22,12 +22,26 @@ The project is written in Python, using the watchdog library to detect changes i
 Key components include:
 
 FileMonitor Class: Utilizes watchdog to track changes.
+
+
 EventHandler Class: Manages file system events and processes files.
+
+
 FileSorter Function: Classifies and moves files to the appropriate subfolders.
+
+
 Technologies Used
+
 Python: Core programming language.
+
+
 watchdog: For real-time file system event monitoring.
+
+
 os and shutil: For file manipulation and directory operations.
+
+
+
 How It Works
 Setup: Initialize the watchdog observer to monitor the Downloads folder.
 Event Handling: The event handler classifies incoming files based on their extensions.
